@@ -1,4 +1,4 @@
-# credit-risk-modelling
+# Loan Approval Prediction
 Predicting loan approval for new applicants.
 
 In this project I have 2 datasets: loan applications that have been decided on (approved or not approved) and new applications that are not yet decided on.
